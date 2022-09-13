@@ -1,0 +1,8 @@
+{
+    "name": "edu-backend",
+    "description": "Simple backend server",
+    "repository": "https://github.com/yunlong92/beast.git",
+    "logo": "https://cdn.rawgit.com/heroku/node-js-getting-started/main/public/node.svg",
+    "keywords": ["node", "express", "heroku"],
+    "image": "heroku/nodejs"
+}
